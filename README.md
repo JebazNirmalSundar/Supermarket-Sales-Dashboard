@@ -43,6 +43,12 @@ The dashboard helps analyze sales performance, customer behavior, payment method
 
 ---
 
+## 📷 Dashboard Preview
+
+![Dashboard Preview](Dashboard.png)
+
+---
+
 ## 📂 Files Included
 
 - Supermarket_Sales_Dashboard.pbix
